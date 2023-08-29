@@ -66,4 +66,4 @@ h1 span{color: var(--one);}
 .hr2{border: none; height: 1px; background: var(--black); margin-top: 3px;}
 .p5{font-weight: 500;color: var(--black);}
 .span1{font-size: 9px;color: var(--black); font-weight : normal}
-.span2{font-size: 7px;color: var(--black); font-weight : normal}
+.span2{font-size: 7px;color: var(--black); font-weight : bold}
